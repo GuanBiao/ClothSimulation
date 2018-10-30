@@ -1,6 +1,6 @@
 # Cloth Simulation
 
-<div align='center'>
+<div align='center' width='320px'>
   <img src='demo.gif'>
 </div>
 
